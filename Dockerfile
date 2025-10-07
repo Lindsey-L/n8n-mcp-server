@@ -21,3 +21,4 @@ EXPOSE 3000
 
 # 启动服务
 CMD ["node", "dist/index.js"]
+
